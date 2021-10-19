@@ -16,3 +16,8 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' ,name:'Zachary',id:'204410053'});
 });
 ```
+![](https://i.imgur.com/5zOge3o.png)
+![](https://i.imgur.com/p07i3Os.png)
+![](https://i.imgur.com/jOtS2HW.png)
+![](https://i.imgur.com/OEKYWwA.png)
+![](https://i.imgur.com/5PzX5H8.png)
